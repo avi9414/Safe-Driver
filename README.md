@@ -1,5 +1,5 @@
 Hello.
-This driver safety app has two modules Distracted Driver and Pothole Detector from following souces with minor changes.
+This driver safety app has two modules Distracted Driver and Pothole Detector from following sources with minor changes.
 Pothole: https://github.com/anantSinghCross/pothole-detection-system-using-convolution-neural-networks
 Distracted Driver : https://github.com/akshaybahadur21/Drowsiness_Detection
 
